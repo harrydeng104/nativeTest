@@ -18,6 +18,20 @@ const _layout = () => {
                 headerShown: false 
             }}
         />
+        <Tabs.Screen
+            name="camera"
+            options={{ 
+                title: 'camera',
+                headerShown: false 
+            }}
+        />
+        <Tabs.Screen
+            name="print"
+            options={{ 
+                title: 'print',
+                headerShown: false 
+            }}
+        />
     </Tabs>
   )
 }

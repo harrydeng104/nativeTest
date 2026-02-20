@@ -1,7 +1,7 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-const tab2 = () => {
+const calibration = () => {
   return (
     <View className="flex-1 justify-center items-center">
       <Text className="text-5xl font-bold text-secondary">Calibrate</Text>
@@ -9,4 +9,4 @@ const tab2 = () => {
   )
 }
 
-export default tab2
+export default calibration
