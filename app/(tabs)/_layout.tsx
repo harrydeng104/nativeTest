@@ -12,9 +12,9 @@ const _layout = () => {
             }}
         />
         <Tabs.Screen
-            name="tab2"
+            name="calibration"
             options={{ 
-                title: 'tab2',
+                title: 'calibration',
                 headerShown: false 
             }}
         />
